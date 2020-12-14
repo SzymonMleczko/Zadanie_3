@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 do_zignorowania/
+glupi_test.txt
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
